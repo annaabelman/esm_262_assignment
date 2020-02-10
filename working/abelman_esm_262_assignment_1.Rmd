@@ -1,0 +1,17 @@
+---
+title: "ESM 262 Assignment 1"
+author: "Anna Abelman"
+date: "2/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+**Why I am in this course**:
+
+I am enrolled in this course because I want to learn more about environmental data science. Last quarter in Allison's course, I truly enjoyed learning R and working on the assignments. Creating data visualizations that help communicate the science to all individuals is something I want to do in the future, so I think this course will teach me more overall.
+
+**Data science background**:
+
+I have very limited data science experiences. In my undergraduate career, I began working in RStudio in a grad-level biological oceanography course my senior year. However, I did not fully understand everything. Once I started at Bren, I saw the importance of environmental data science through Allison's class. Right now, I am also in Allison's advanced data science course to further my environmental data sceince skills. 
